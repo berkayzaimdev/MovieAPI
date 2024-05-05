@@ -62,7 +62,7 @@ Projenin Docker imajını Docker Hub üzerinden çekmek için aşağıdaki komut
 docker pull berkayzaimdev/movieapi:latest 
 ```
 
-Bu komut, Docker Hub üzerinden kullanici_adi/movieapi reposundan latest tag'ine sahip imajı yerel Docker ortamınıza çeker.
+Bu komut, Docker Hub üzerinden berkayzaimdev/movieapi reposundan latest tag'ine sahip imajı yerel Docker ortamınıza çeker.
 
 ### Konteyneri Başlatın
 
