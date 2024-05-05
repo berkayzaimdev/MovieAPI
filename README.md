@@ -50,6 +50,32 @@ Movie API'ye katkıda bulunmak istiyorsanız, lütfen aşağıdaki adımları ta
 4. Dalınızı itin (`git push origin feature/your_feature`).
 5. Yeni bir Pull Request oluşturun.
 
+## Docker ile Çalıştırma
+
+Bu rehber, projeyi Docker kullanarak nasıl çalıştırabileceğinizi adım adım anlatmaktadır. Docker, uygulamalarınızı hızlı ve tutarlı bir şekilde dağıtmanızı sağlayan bir konteynerizasyon platformudur.
+
+### DockerHub'dan İmajı Çekin
+
+Projenin Docker imajını Docker Hub üzerinden çekmek için aşağıdaki komutları kullanabilirsiniz. Öncelikle, Docker Hub'daki kullanıcı adınızı ve imajınızın adını doğru şekilde girmeniz gerekmektedir.
+
+```
+docker pull berkayzaimdev/movieapi:latest 
+```
+
+Bu komut, Docker Hub üzerinden kullanici_adi/movieapi reposundan latest tag'ine sahip imajı yerel Docker ortamınıza çeker.
+
+### Konteyneri Başlatın
+
+İmajı başarıyla indirdikten sonra, aşağıdaki komut ile Docker konteynerini başlatın. Bu komut, konteynerin 3000 portunu yerel makinenizin 3000 portuna bağlar:
+
+```
+docker run -p 3000:3000 berkayzaimdev/movieapi:latest 
+```
+Bu komutla, Docker konteyneri arka planda çalışmaya başlar ve uygulamanızın 3000 portundan servis vermesini sağlar.
+
+### Uygulamayı Tarayıcıda Görüntüleyin
+Konteyner başlatıldıktan sonra, tarayıcınızı açın ve http://localhost:3000 adresine gidin. Bu adres, Docker konteynerinde çalışan MovieAPI uygulamanızın ana sayfasını açacaktır.
+
 ## Lisans
 
 Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
