@@ -1,8 +1,8 @@
-# Derleme aþamasý için SDK imajýný kullan
+# Derleme aÃ¾amasÃ½ iÃ§in SDK imajÃ½nÃ½ kullan
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build-env
 WORKDIR /app
 
-# Proje dosyalarýný kopyala
+# Proje dosyalarÃ½nÃ½ kopyala
 COPY ./WebAPI/WebAPI.csproj ./WebAPI/
 COPY ./Entities/Entities.csproj ./Entities/
 COPY ./Infrastructure/Infrastructure.csproj ./Infrastructure/
@@ -13,15 +13,15 @@ COPY ./WebAPI/ ./WebAPI/
 COPY ./Entities/ ./Entities/
 COPY ./Infrastructure/ ./Infrastructure/
 
-# Uygulamayý derle ve yayýnla
+# UygulamayÃ½ derle ve yayÃ½nla
 RUN dotnet publish ./WebAPI/WebAPI.csproj -c Release -o out
 
-# Çalýþma aþamasý için runtime imajýný kullan
+# Ã‡alÃ½Ã¾ma aÃ¾amasÃ½ iÃ§in runtime imajÃ½nÃ½ kullan
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
 COPY --from=build-env /app/out .
 
-# Çevresel deðiþkenleri tanýmla
-ENV ConnectionStrings__sqlConnection="Server=sqlserver;initial Catalog=MovieApiDb;User Id=sa;Password=YourSecurePassword;TrustServerCertificate=true;"
+# Ã‡evresel deÃ°iÃ¾kenleri tanÃ½mla
+ENV ConnectionStrings__sqlConnection="Server=sqlserver;initial Catalog=MovieApiDb;User Id=sa;Password=YourSecurePassword123-;TrustServerCertificate=true;"
 
 ENTRYPOINT ["dotnet", "WebAPI.dll"]
