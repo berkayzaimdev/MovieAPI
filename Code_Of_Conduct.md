@@ -1,34 +1,34 @@
-# Proje Adı Davranış Kuralları
+# MovieAPI DavranÄ±ÅŸ KurallarÄ±
 
-Bu proje, katkıda bulunanların birbirine saygılı ve yapıcı bir şekilde davranmasını bekler. Aşağıdaki davranış kuralları, proje topluluğu içinde geçerlidir:
+Bu proje, katkÄ±da bulunanlarÄ±n birbirine saygÄ±lÄ± ve yapÄ±cÄ± bir ÅŸekilde davranmasÄ±nÄ± bekler. AÅŸaÄŸÄ±daki davranÄ±ÅŸ kurallarÄ±, proje topluluÄŸu iÃ§inde geÃ§erlidir:
 
-## Saygılı Davranış
+## SaygÄ±lÄ± DavranÄ±ÅŸ
 
-- Diğer katkıda bulunanlara karşı saygılı olun.
-- Farklı görüşlere saygı gösterin ve tartışmaları yapıcı bir şekilde sürdürün.
+- DiÄŸer katkÄ±da bulunanlara karÅŸÄ± saygÄ±lÄ± olun.
+- FarklÄ± gÃ¶rÃ¼ÅŸlere saygÄ± gÃ¶sterin ve tartÄ±ÅŸmalarÄ± yapÄ±cÄ± bir ÅŸekilde sÃ¼rdÃ¼rÃ¼n.
 
-## Açık İletişim
+## AÃ§Ä±k Ä°letiÅŸim
 
-- Açık, net ve yapıcı bir dil kullanın.
-- İletişimde nezaket ve anlayışı ön planda tutun.
+- AÃ§Ä±k, net ve yapÄ±cÄ± bir dil kullanÄ±n.
+- Ä°letiÅŸimde nezaket ve anlayÄ±ÅŸÄ± Ã¶n planda tutun.
 
-## İyi Niyet ve İşbirliği
+## Ä°yi Niyet ve Ä°ÅŸbirliÄŸi
 
-- Projeye katkıda bulunanlara yardımcı olun ve işbirliği yapın.
-- Problemleri çözmek için birlikte çalışın ve eleştirilere yapıcı bir şekilde yanıt verin.
+- Projeye katkÄ±da bulunanlara yardÄ±mcÄ± olun ve iÅŸbirliÄŸi yapÄ±n.
+- Problemleri Ã§Ã¶zmek iÃ§in birlikte Ã§alÄ±ÅŸÄ±n ve eleÅŸtirilere yapÄ±cÄ± bir ÅŸekilde yanÄ±t verin.
 
-## Kabul Edilemez Davranışlar
+## Kabul Edilemez DavranÄ±ÅŸlar
 
-Aşağıdaki davranışlar, proje topluluğu içinde kabul edilmez:
+AÅŸaÄŸÄ±daki davranÄ±ÅŸlar, proje topluluÄŸu iÃ§inde kabul edilmez:
 
-- Tehdit edici veya saldırgan davranışlar.
-- Taciz veya ayrımcılık yapma.
-- Kişisel saldırılar veya hakaret içeren dil kullanma.
+- Tehdit edici veya saldÄ±rgan davranÄ±ÅŸlar.
+- Taciz veya ayrÄ±mcÄ±lÄ±k yapma.
+- KiÅŸisel saldÄ±rÄ±lar veya hakaret iÃ§eren dil kullanma.
 
 ## Bildirim ve Uygulama
 
-Bu davranış kurallarına uymayan davranışları gözlemlediğinizde, lütfen projenin iletişim kanallarından birine başvurun. Tüm şikayetler dikkate alınacak ve gerekli önlemler alınacaktır.
+Bu davranÄ±ÅŸ kurallarÄ±na uymayan davranÄ±ÅŸlarÄ± gÃ¶zlemlediÄŸinizde, lÃ¼tfen projenin iletiÅŸim kanallarÄ±ndan birine baÅŸvurun. TÃ¼m ÅŸikayetler dikkate alÄ±nacak ve gerekli Ã¶nlemler alÄ±nacaktÄ±r.
 
-## Teşekkür
+## TeÅŸekkÃ¼r
 
-Bu davranış kurallarını takip ettiğiniz için teşekkür ederiz. Katkıda bulunanlar arasında olumlu bir etkileşim ve işbirliği ortamı sağlamak için birlikte çalışalım.
+Bu davranÄ±ÅŸ kurallarÄ±nÄ± takip ettiÄŸiniz iÃ§in teÅŸekkÃ¼r ederiz. KatkÄ±da bulunanlar arasÄ±nda olumlu bir etkileÅŸim ve iÅŸbirliÄŸi ortamÄ± saÄŸlamak iÃ§in birlikte Ã§alÄ±ÅŸalÄ±m.
