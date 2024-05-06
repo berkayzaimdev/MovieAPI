@@ -78,4 +78,4 @@ Konteyner başlatıldıktan sonra, tarayıcınızı açın ve http://localhost:3
 
 ## Lisans
 
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
+Bu proje [MIT Lisansı](LICENSE.txt) altında lisanslanmıştır.
